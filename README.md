@@ -1,9 +1,6 @@
 # Hi there! 👋 I'm Dhinagar D
 
 I’m passionate about web development, multimedia, and programming. Let me introduce myself and share my skills, projects, and achievements.
-
-## Introduction
-
 I’m a developer with a keen interest in creating web applications and exploring multimedia tools. My goal is to learn, grow, and contribute to exciting projects.
 
 ## Skills and Technologies
