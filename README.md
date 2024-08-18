@@ -5,7 +5,6 @@
 </div>  
 <br/>
 <hr/>
-
 <b>Hands on tools !!</b>
 <br/>
 <div>
